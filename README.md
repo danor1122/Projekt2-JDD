@@ -30,6 +30,7 @@ nr. pass method code
 
 # Łamanie haseł (met. brute-force)
 1: sda, SHA-512 (1700)
+
 2: Asia, SHA-512 (1700)
 
 ## 3/3 
