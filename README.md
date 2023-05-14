@@ -13,7 +13,7 @@ Grupa podjęła decyzję o tym aby wszystkie 6 zadań były w jednym pliku pod t
 W terminalu wykonaliśmy polecenie hash-identifier, a następnie skryptem hashcat dokonaliśmy deszyfrowania hashy.
 
 # Łamanie haseł (met. brute-force)
-1: 1234, MD5 (3)
+1: 1234, MD5 (3)\n/n
 2: 4121, SHA1 (100)
 3: 6969, SHA-512 (1700)
 4: 0, SHA-512 (1700)
