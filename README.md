@@ -5,8 +5,6 @@ Grupa w składzie:
 - Damian Tomala
 - Dorota Gliniak
 
-Grupa podjęła decyzję o tym aby wszystkie 6 zadań były w jednym pliku pod tytułem "project.py".
-
 # Zadanie numer 1:
 
 ## 1/3  
@@ -21,9 +19,6 @@ W terminalu wykonaliśmy polecenie hash-identifier, a następnie skryptem hashca
 
 4: 0, SHA-512 (1700)
 
-Załączniki w postaci screenshotów:
-
-
 ## 2/3 
 W terminalu wykonaliśmy polecenie hash-identifier, a następnie skryptem hashcat dokonaliśmy deszyfrowania hashy.
 nr. pass method code
@@ -37,12 +32,16 @@ nr. pass method code
 W terminalu wykonaliśmy polecenie hash-identifier, a następnie skryptem hashcat dokonaliśmy deszyfrowania hashy.
 nr. pass method code
 
+?????????
+
+Załączniki w postaci screenshotów i szczegółowy opis wykonywanych czynności w pliku '2023.05.14 NOTATKA z projektu nr 2, zadanie 1.docx'
 # Zadanie numer 2:
 
-Załączniki w postaci screenshotów:
+
 
 
 # Zadanie numer 3:
+
 
 # Zadanie numer 4:
 
