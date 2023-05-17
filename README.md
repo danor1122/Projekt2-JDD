@@ -1,11 +1,11 @@
-## Projekt-JDD
+# Projekt-JDD
 
 Grupa w składzie:
 - Jerzy Tarasiewicz
 - Damian Tomala
 - Dorota Gliniak
 
-## Zadanie numer 1:
+# Zadanie numer 1:
 
 Do zadania 1 wykorzystane narzędzia:
 1. hash-identifier
@@ -30,9 +30,9 @@ Do zadania 1 - 1/3, 2/3, 3/3 pkt.1-4, wykonaliśmy następujące czynności:
 
 Koniec zadania nr 1.
 
-# Wyniki: 
+## Wyniki: 
 
-# 1/3
+## 1/3
 1: 1234, MD5 (3)
 
 2: 4121, SHA1 (100)
@@ -41,7 +41,7 @@ Koniec zadania nr 1.
 
 4: 0, SHA-512 (1700)
 
-# 2/3 
+## 2/3 
 
 Łamanie haseł (met. brute-force)
 
@@ -49,7 +49,7 @@ Koniec zadania nr 1.
 
 2: Asia, SHA-512 (1700)
 
-# 3/3 
+## 3/3 
 
 Zadanie niewykonalne ze wzglęgu na szyfrowanie https.
 
@@ -60,7 +60,7 @@ W tym przypadku zręczny cyberprzestępca i tak sobie może poradzić uruchamiaj
 
 Załączniki w postaci screenshotów i szczegółowy opis wykonywanych czynności w pliku '2023.05.14 NOTATKA z projektu nr 2, zadanie 1.docx
 
-## Zadanie numer 2:
+# Zadanie numer 2:
 
 Do zadania 2 wykorzystane narzędzia:
 1. hash-identifier
@@ -87,7 +87,7 @@ Następnie w konsoli używając 'hashcat' podjęliśmy próbę złamania hasła 
 
 koniec zadania nr 2.
 
-## Zadanie numer 3:
+# Zadanie numer 3:
 
 Do zadania nr 3 wykorzystane narzędzia:
 - wireshark
@@ -102,7 +102,7 @@ Nie da się wykonać tych samych czynności dla strony https://facebook.com poni
 
 Koniec zadania nr 3.
 
-## Zadanie numer 4:
+# Zadanie numer 4:
 
 Do zadania nr 4 wykorzystaliśmy narzędzia:
 - wireshark
@@ -130,7 +130,7 @@ Do zadania nr 4 wykorzystaliśmy 2 wirtualne maszyny:
 
 Koniec zadania nr 4.
 
-## Zadanie numer 5:
+# Zadanie numer 5:
 
 Do zadania nr 5 wykorzystaliśmy narzędzia:
 - wireshark
